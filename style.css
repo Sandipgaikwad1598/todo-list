@@ -1,0 +1,10 @@
+body{
+    padding: 0 px;
+    margin: 0 px;
+}
+form{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-left: 40rem;
+}
